@@ -125,7 +125,7 @@ VALUES
   ("Let's Be Silly", '3', '4', '132'),
   ('Thang Of Thunder', '4', '5', '240'),
   ('Words Of Her Life', '4', '5', '185'),
-  ('Thang Of Thunder', '4', '5', '176'),
+  ('Without My Streets', '4', '5', '176'),
   ('Need Of The Evening', '4', '6', '190'),
   ('History Of My Roses', '4', '6', '222'),
   ('Without My Love', '4', '6', '111'),
